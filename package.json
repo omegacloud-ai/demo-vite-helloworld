@@ -4,7 +4,7 @@
   "description": "Simple Hello World application using React and Tailwind CSS",
   "type": "module",
   "scripts": {
-    "dev": "vite --host",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
